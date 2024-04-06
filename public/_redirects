@@ -1,0 +1,4 @@
+/life-events https://joe-life-events.netlify.app 200
+/life-events/static/* https://joe-life-events.netlify.app/static/:splat 200
+/life-events/* https://joe-life-events.netlify.app/:splat 200
+/* /index.html 200
